@@ -1,0 +1,35 @@
+main {font-family: Bona SC, serif; 
+    font-weight:bold; 
+    border-style: dashed; 
+    border-color: rgb(247, 37, 133) ;
+    
+    margin: 5px;
+    padding: 5px;
+}
+h1 { color:rgb(114, 9, 183);
+    border: 2px solid black  
+}
+#h3 {
+    color: rgb(58, 12, 163);
+    margin: 2px ;
+}
+.paragraph {color: hsl(34, 85%, 62%);
+    border: 2px solid black; 
+}
+.intro {
+    color: #F42585;
+}
+.one, .two {
+    color: black;
+    border: 2px solid black;
+    font-weight: 500;
+}
+
+.blue-header {
+    color: blue;
+}
+
+#footer-content { 
+    background-color: rgb(76, 201, 240); color: snow;padding: 2px; margin-top:20px; border-style: dotted;
+}
+
